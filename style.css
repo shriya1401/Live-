@@ -1,0 +1,24 @@
+body{
+    background-image:url("https://wallpaperaccess.com/full/112906.jpg");
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+#heading{
+    background-image: linear-gradient(to right top, #f3bedd, #e3bfec, #cbc2f9, #abc7ff, #86ccff, #7acaff, #6dc9ff, #5dc7ff, #75beff, #92b2ff, #b0a5fa, #cc97ea);
+    width:100%;
+    margin:0px;
+    font-size: 30px;
+    padding: 10px;
+
+
+    
+}
+
+canvas{
+    border:10px solid pink;
+    border-radius: 20px;
+    margin-top: 50px;
+    
+}
